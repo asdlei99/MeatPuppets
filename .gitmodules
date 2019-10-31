@@ -1,0 +1,3 @@
+[submodule "Library/KAI"]
+	path = Library/KAI
+	url = git@github.com:cschladetsch/KAI.git
