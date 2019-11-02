@@ -1,3 +1,6 @@
+# Don't add what is not needed to build
+/Assets/ExampleAssts/
+
 # Unity output folders
 /Library/
 /Builds/
