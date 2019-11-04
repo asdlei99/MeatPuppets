@@ -3,6 +3,13 @@ _MeatPuppets_ is a combined *Rts* (Real Time Strategy) and *Fps* (First Person S
 
 It is based on small planets, with circumfrences measured in hundreds of meters. 
 
+## Abstract
+_MeatPuppets_ is a combined Rts (Real Time Strategy) and Fps (First Person Shooter) game.
+
+It is based on small planets, with circumfrences measured in hundreds of meters. This is to ensure that players cannot hide in corners.
+
+Players build up bases and units and contest for finite resources. 
+
 ## Win Condition
 A player wins the game when he controls more than half the surface area, or has destroyed all enemy buildings.
 
